@@ -1,0 +1,3 @@
+Faut disposer d'une clé pour l'API exhange rate-api.
+Pourc cela rendez-vous sur leur site.
+exchangerate-api.com
